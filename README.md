@@ -2,7 +2,7 @@
 
 A command-line tool for monitoring file system changes with a focus on development workflows (in latter versions).
 
-![How File Watcher Works](https://raw.githubusercontent.com/starboyles/file-watcher/main/Users/starboyles/Desktop/filewatcher.png)
+![Screenshot 2025-01-09 at 10 21 13 PM](https://github.com/user-attachments/assets/567297ad-b2e9-4337-b3d3-8403e3fc6e85)
 
 ## Table of Contents
 - [Installation](#installation)
