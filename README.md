@@ -1,6 +1,6 @@
 # File Watcher CLI Documentation
 
-A command-line tool for monitoring file system changes with a focus on development workflows.
+A command-line tool for monitoring file system changes with a focus on development workflows (in latter versions).
 
 ## Table of Contents
 - [Installation](#installation)
